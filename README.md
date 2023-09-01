@@ -1,1 +1,0 @@
-## Project created on Big Data and Interactive Visualisation course, description and code are in heart.ipynb file. Repo contains also initial subject presentation and predicted goals and link to the dataset in dateset.txt file
